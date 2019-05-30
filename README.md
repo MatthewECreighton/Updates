@@ -1,6 +1,8 @@
 <h2>2019.05.29</h2>
 <ul>
   <li>Get update content from alternative host</li>
+  <li>Auto-collapse nav bar on mobile</li>
+  <li>Add quick link to create page on home screen</li>
 </ul>
 
 <h2>2019.05.28</h2>
