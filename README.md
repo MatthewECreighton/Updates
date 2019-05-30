@@ -1,3 +1,8 @@
+<h2>2019.05.30</h2>
+<ul>
+  <li>Convert word selection list to 2x2 grid</li>
+</ul>
+
 <h2>2019.05.29</h2>
 <ul>
   <li>Get update content from alternative host</li>
