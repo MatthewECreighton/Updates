@@ -1,6 +1,10 @@
 pixag.io updates
 ================
 
+2020.03.22
+----------
+- Added display-grid for displaying non-interactive pixel art
+
 2020.03.01
 ----------
 - Working on a mobile version of pixag.io written with Dart/Flutter
