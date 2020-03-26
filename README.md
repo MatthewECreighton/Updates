@@ -1,6 +1,10 @@
 pixag.io updates
 ================
 
+2020.03.25
+----------
+- Added default ninja picture to user profile
+
 2020.03.22
 ----------
 - Added display-grid for displaying non-interactive pixel art
