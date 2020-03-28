@@ -1,6 +1,10 @@
 pixag.io updates
 ================
 
+2020.03.27
+----------
+- Created interface to allow players to create a temporary profile picture
+
 2020.03.25
 ----------
 - Added default ninja picture to user profile
