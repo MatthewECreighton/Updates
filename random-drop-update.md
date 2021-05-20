@@ -1,3 +1,7 @@
+### 2021.05.20 ###
+
+- Update exclusion/ocean color (higher contrast against black)
+
 ### 2021.05.19 ###
 
 - Add Rebirth map
