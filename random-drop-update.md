@@ -7,7 +7,7 @@
 
 ### 2021.05.17 ###
 
-- Fix updates routing issue
+- Fix /updates routing issue
 
 ### 2021.05.16 ###
 
