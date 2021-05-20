@@ -1,3 +1,14 @@
+### 2021.05.19 ###
+
+- Add Rebirth map
+- Add tab functionality
+- Add exclusion for ocean drops
+- Update nav on footer
+
+### 2021.05.17 ###
+
+- Fix updates routing issue
+
 ### 2021.05.16 ###
 
 - Updated to Tag Manager
