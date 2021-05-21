@@ -1,6 +1,7 @@
 ### 2021.05.21 ###
 
 - Add toggleable dark mode (experimental)
+- Rebirth repeat drop limit increased from 5 to 7
 - Fix "loading" text on /Updates
 
 ### 2021.05.20 ###
