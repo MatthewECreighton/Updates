@@ -1,6 +1,7 @@
 ### 2021.05.21 ###
 
 - Add toggleable dark mode (experimental)
+- Fix "loading" text on /Updates
 
 ### 2021.05.20 ###
 
