@@ -1,6 +1,8 @@
 ### 2021.05.20 ###
 
 - Update exclusion/ocean color (higher contrast against black)
+- Update Rebirth map - remove Construction, add Control Center
+- Update cookie consent language
 
 ### 2021.05.19 ###
 
@@ -15,8 +17,8 @@
 
 ### 2021.05.16 ###
 
-- Updated to Tag Manager
-- Added router and switch for multiple-page support
+- Update to Tag Manager
+- Add router and switch for multiple-page support
 - Add updates page at /updates
 
 ### 2021.05.15 ###
