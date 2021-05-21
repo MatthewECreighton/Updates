@@ -1,3 +1,7 @@
+### 2021.05.21 ###
+
+- Add toggleable dark mode (experimental)
+
 ### 2021.05.20 ###
 
 - Update exclusion/ocean color (higher contrast against black)
