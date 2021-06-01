@@ -1,3 +1,8 @@
+### 2021.05.31 ###
+
+- Add cookie support for preferences
+- Save dark mode preferences with cookie
+
 ### 2021.05.21 ###
 
 - Add toggleable dark mode (experimental)
