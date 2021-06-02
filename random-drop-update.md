@@ -1,3 +1,7 @@
+### 2021.06.01 ###
+
+- Update short name
+
 ### 2021.05.31 ###
 
 - Add cookie support for preferences
