@@ -1,3 +1,8 @@
+### 2021.06.05 ###
+
+- Issues with host caused pages failing to load
+- Issue fixed Saturday PM
+
 ### 2021.06.01 ###
 
 - Update short name
