@@ -1,3 +1,10 @@
+### 2021.06.06 ###
+
+- Add preference cookie for saving last map used
+- Updates to style
+  - Whitespace changes
+  - Higher contrast for anchor elements in dark mode
+
 ### 2021.06.05 ###
 
 - Issues with host caused pages failing to load
