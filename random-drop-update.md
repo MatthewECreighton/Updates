@@ -1,3 +1,7 @@
+### 2021.06.07 ###
+
+- Send map name with Tag Manager "generate coordinates" event
+
 ### 2021.06.06 ###
 
 - Add preference cookie for saving last map used
