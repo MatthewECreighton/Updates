@@ -1,3 +1,7 @@
+### 2021.06.08 ###
+
+- Remove H2 as consideration for Verdansk drop
+
 ### 2021.06.07 ###
 
 - Send map name with Tag Manager "generate coordinates" event
