@@ -1,3 +1,8 @@
+### 2021.06.18 ###
+
+- Save/auto-load previous drops from both maps
+- Dark mode is now default, no longer experimental
+
 ### 2021.06.08 ###
 
 - Remove H2 as consideration for Verdansk drop
