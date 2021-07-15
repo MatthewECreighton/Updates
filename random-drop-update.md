@@ -1,3 +1,7 @@
+### 2021.07.15 ###
+
+- Reduced Verdansk map size by 50%+ - this should lead to faster load times on slower networks
+
 ### 2021.07.14 ###
 
 - Add clear history button/functionality
