@@ -1,3 +1,7 @@
+### 2021.07.14 ###
+
+- Add clear history button/functionality
+
 ### 2021.06.18 ###
 
 - Save/auto-load previous drops from both maps
