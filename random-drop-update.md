@@ -2,7 +2,7 @@
 
 - Reduce Verdansk map size by 50%+ - this should lead to faster load times on slower networks
 - Add "I" column (3 units) to Verdansk map
-- Increase repeat drop history on Verdansk to 12
+- Increase repeat drop history on Verdansk to 12 
 
 ### 2021.07.14 ###
 
