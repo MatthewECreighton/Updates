@@ -1,3 +1,7 @@
+### 2021.07.26 ###
+
+- Fix Y-axis alignment on Verdansk map
+
 ### 2021.07.17 ###
 
 - Shift Verdansk map left after "I" addition
