@@ -1,3 +1,7 @@
+### 2021.07.27 ###
+
+- Increase contrast on highlighted square
+
 ### 2021.07.26 ###
 
 - Fix Y-axis alignment on Verdansk map
