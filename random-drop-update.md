@@ -1,3 +1,8 @@
+### 2021.07.29 ###
+
+- Fix cookie consent language
+- Update meta description for SEO
+
 ### 2021.07.27 ###
 
 - Increase contrast on highlighted square
