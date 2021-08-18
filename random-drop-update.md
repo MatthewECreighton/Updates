@@ -1,3 +1,7 @@
+### 2021.08.18 ###
+
+- Update cookie consent language
+
 ### 2021.08.09 ###
 
 - Update meta description with map names
