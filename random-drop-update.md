@@ -1,3 +1,8 @@
+### 2021.12.09 ###
+
+- Remove Verdansk
+- Add grid for Caldera (no map background yet)
+
 ### 2021.08.18 ###
 
 - Update cookie consent language
