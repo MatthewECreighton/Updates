@@ -1,3 +1,7 @@
+### 2021.12.10 ###
+
+- Add Caldera map background
+
 ### 2021.12.09 ###
 
 - Remove Verdansk
