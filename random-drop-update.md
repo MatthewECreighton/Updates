@@ -1,6 +1,7 @@
 ### 2021.12.11 ###
 
 - Update "Lagoon" label position on Caldera
+- Update meta description to reflect Caldera update
 
 ### 2021.12.10 ###
 
