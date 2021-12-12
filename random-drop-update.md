@@ -1,3 +1,7 @@
+### 2021.12.11 ###
+
+- Update "Lagoon" label position on Caldera
+
 ### 2021.12.10 ###
 
 - Add Caldera map background
