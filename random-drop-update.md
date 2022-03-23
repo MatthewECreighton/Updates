@@ -1,3 +1,7 @@
+### 2022.03.23 ###
+
+- Re-label Rebirth area "Stronghold"
+
 ### 2021.12.11 ###
 
 - Update "Lagoon" label position on Caldera
