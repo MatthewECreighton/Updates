@@ -1,3 +1,7 @@
+### 2022.03.24 ###
+
+- Increase number of prevented repeats on Rebirth to 11
+
 ### 2022.03.23 ###
 
 - Re-label Rebirth area "Stronghold"
