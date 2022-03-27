@@ -1,3 +1,7 @@
+### 2022.03.27 ###
+
+- Move to dropdown-based map selection to accomodate more than 2 maps in-future;
+
 ### 2022.03.24 ###
 
 - Increase number of prevented repeats on Rebirth to 11
