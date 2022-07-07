@@ -1,3 +1,8 @@
+### 2022.07.01 ###
+
+- Add Fortune's Keep map
+- Remove Rebirth map
+
 ### 2022.03.27 ###
 
 - Move to dropdown-based map selection to accomodate more than 2 maps in-future;
