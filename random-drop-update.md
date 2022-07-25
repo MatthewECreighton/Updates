@@ -1,3 +1,11 @@
+### 2022.07.25 ###
+
+- Update meta description to include Rebirth
+
+### 2022.07.22 ###
+
+- Add Rebirth map back
+
 ### 2022.07.01 ###
 
 - Add Fortune's Keep map
